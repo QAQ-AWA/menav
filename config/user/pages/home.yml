@@ -1,0 +1,361 @@
+title: 欢迎使用
+subtitle: 个人导航站点
+
+template: home
+
+categories:
+  - name: 常用网站
+    icon: fas fa-star
+    sites:
+      - name: Bing
+        url: https://www.bing.com
+        icon: fab fa-microsoft
+        description: 微软搜索引擎
+      - name: Google
+        url: https://www.google.com
+        icon: fab fa-google
+        description: 全球最大搜索引擎
+      - name: GitHub
+        url: https://github.com
+        icon: fab fa-github
+        description: 代码托管平台
+      - name: V2EX
+        url: https://www.v2ex.com
+        icon: fas fa-comments
+        description: 程序员社区
+      - name: NodeSeek
+        url: https://www.nodeseek.com
+        icon: fas fa-network-wired
+        description: 极客交流社区
+      - name: Bilibili
+        url: https://www.bilibili.com
+        icon: fas fa-play-circle
+        description: 视频弹幕社区
+      - name: 煎蛋
+        url: http://jandan.net
+        icon: fas fa-egg
+        description: 趣味图文分享
+      - name: 少数派
+        url: https://sspai.com
+        icon: fas fa-lightbulb
+        description: 数码与效率优质内容
+      - name: 豆瓣
+        url: https://www.douban.com
+        icon: fas fa-film
+        description: 电影读书音乐社区
+      - name: 知乎
+        url: https://www.zhihu.com
+        icon: fas fa-question-circle
+        description: 知识问答社区
+      - name: ChatGPT
+        url: https://chat.openai.com
+        icon: fas fa-robot
+        description: AI 智能助手
+      - name: Gemini
+        url: https://gemini.google.com
+        icon: fas fa-brain
+        description: Google AI 助手
+      - name: Whois.cx
+        url: https://www.whoiscx.com
+        icon: fas fa-search
+        description: 域名 Whois 查询
+      - name: ITDog
+        url: https://itdog.cn
+        icon: fas fa-dog
+        description: 网络监测工具
+      - name: IP138
+        url: https://site.ip138.com/
+        icon: fas fa-globe
+        description: IP 域名查询
+
+  - name: 个人服务
+    icon: fas fa-server
+    sites:
+      - name: 我的博客
+        url: https://blog.halfair.top
+        icon: fas fa-blog
+        description: 个人博客
+      - name: 服务状态监控
+        url: https://stats.uptimerobot.com/LMYgq8u9vs
+        icon: fas fa-chart-line
+        description: UptimeRobot 服务监控
+      - name: 哪吒探针
+        url: https://nezha.halfair.top
+        icon: fas fa-tachometer-alt
+        description: 服务器探针
+      - name: PVE
+        url: https://192.168.1.11:8006
+        icon: fas fa-desktop
+        description: 虚拟化管理
+      - name: NAS2
+        url: https://nas.halfair.top:5001
+        icon: fas fa-hdd
+        description: NAS 存储
+      - name: Emby
+        url: https://nas.halfair.top:8096
+        icon: fas fa-film
+        description: 自建影音平台
+      - name: BleachWrt - LuCI
+        url: http://192.168.3.99
+        icon: fas fa-wifi
+        description: 路由器管理
+      - name: AstrBot
+        url: http://192.168.3.77:6185
+        icon: fas fa-robot
+        description: 聊天机器人
+      - name: 青龙面板
+        url: https://nas.halfair.top:15700
+        icon: fas fa-tasks
+        description: 自动化任务面板
+      - name: DDNS
+        url: http://192.168.3.52:9876
+        icon: fas fa-sync
+        description: 动态域名服务
+      - name: Bilibili 签到服务
+        url: https://bilibili.halfair.top
+        icon: fas fa-check
+        description: 自动签到服务
+
+  - name: 赛博大善人
+    icon: fas fa-hands-helping
+    sites:
+      - name: Cloudflare
+        url: https://www.cloudflare.com
+        icon: fas fa-cloud
+        description: 免费 CDN 与安全服务
+      - name: Vercel
+        url: https://vercel.com
+        icon: fas fa-rocket
+        description: 前端托管平台
+      - name: Netlify
+        url: https://www.netlify.com
+        icon: fas fa-globe
+        description: 静态网站托管
+      - name: GitHub Pages
+        url: https://pages.github.com
+        icon: fab fa-github
+        description: 免费网站托管
+      - name: Zeabur
+        url: https://zeabur.com
+        icon: fas fa-server
+        description: 应用托管平台
+
+  - name: 开发工具 / 云服务
+    icon: fas fa-tools
+    sites:
+      - name: AWS
+        url: https://aws.amazon.com
+        icon: fab fa-aws
+        description: 亚马逊云服务
+      - name: Azure
+        url: https://azure.microsoft.com
+        icon: fab fa-microsoft
+        description: 微软云平台
+      - name: Google Cloud
+        url: https://cloud.google.com
+        icon: fab fa-google
+        description: 谷歌云平台
+      - name: 阿里云
+        url: https://www.aliyun.com
+        icon: fas fa-cloud
+        description: 阿里云计算
+      - name: 腾讯云
+        url: https://cloud.tencent.com
+        icon: fas fa-cloud
+        description: 腾讯云服务
+      - name: 华为云
+        url: https://www.huaweicloud.com
+        icon: fas fa-cloud
+        description: 华为云服务
+      - name: DigitalOcean
+        url: https://www.digitalocean.com
+        icon: fab fa-digital-ocean
+        description: 简单云服务器
+      - name: Heroku
+        url: https://www.heroku.com
+        icon: fas fa-h-square
+        description: 应用部署平台
+      - name: VS Code
+        url: https://code.visualstudio.com
+        icon: fas fa-code
+        description: 代码编辑器
+      - name: Postman
+        url: https://www.postman.com
+        icon: fas fa-paper-plane
+        description: API 调试工具
+      - name: Git
+        url: https://git-scm.com
+        icon: fab fa-git-alt
+        description: 版本控制工具
+      - name: Docker
+        url: https://www.docker.com
+        icon: fab fa-docker
+        description: 容器化平台
+      - name: JetBrains
+        url: https://www.jetbrains.com
+        icon: fas fa-laptop-code
+        description: 开发 IDE
+      - name: npm
+        url: https://www.npmjs.com
+        icon: fab fa-npm
+        description: Node.js 包管理器
+      - name: Webpack
+        url: https://webpack.js.org
+        icon: fas fa-box-open
+        description: 前端打包工具
+      - name: GitHub Copilot
+        url: https://github.com/features/copilot
+        icon: fas fa-robot
+        description: AI 编程助手
+
+  - name: 学习资源
+    icon: fas fa-graduation-cap
+    sites:
+      - name: 掘金
+        url: https://juejin.cn
+        icon: fas fa-book
+        description: 技术社区
+      - name: LeetCode
+        url: https://leetcode.cn
+        icon: fas fa-code
+        description: 算法刷题平台
+      - name: Coursera
+        url: https://www.coursera.org
+        icon: fas fa-university
+        description: 在线课程
+      - name: edX
+        url: https://www.edx.org
+        icon: fas fa-graduation-cap
+        description: 高质量教育
+      - name: Udemy
+        url: https://www.udemy.com
+        icon: fas fa-chalkboard-teacher
+        description: 技能学习平台
+      - name: MDN Web Docs
+        url: https://developer.mozilla.org
+        icon: fas fa-file-code
+        description: Web 开发文档
+      - name: 开发者头条
+        url: https://toutiao.io
+        icon: fas fa-newspaper
+        description: 技术文章聚合
+      - name: 菜鸟教程
+        url: https://www.runoob.com
+        icon: fas fa-graduation-cap
+        description: 中文学习资源
+
+  - name: 在线工具
+    icon: fas fa-wrench
+    sites:
+      - name: JSON Editor
+        url: https://jsoneditoronline.org
+        icon: fas fa-code-branch
+        description: JSON 在线编辑器
+      - name: Can I Use
+        url: https://caniuse.com
+        icon: fas fa-browser
+        description: 浏览器兼容性查询
+      - name: TinyPNG
+        url: https://tinypng.com
+        icon: fas fa-compress
+        description: 图片压缩工具
+      - name: Carbon
+        url: https://carbon.now.sh
+        icon: fas fa-code
+        description: 代码图片生成器
+      - name: RegExr
+        url: https://regexr.com
+        icon: fas fa-search
+        description: 正则表达式测试
+      - name: Excalidraw
+        url: https://excalidraw.com
+        icon: fas fa-pencil-alt
+        description: 手绘风格图表工具
+      - name: Notion
+        url: https://www.notion.so
+        icon: fas fa-sticky-note
+        description: 笔记与文档管理
+      - name: Grammarly
+        url: https://www.grammarly.com
+        icon: fas fa-spell-check
+        description: 英文语法检查
+      - name: 临时邮箱
+        url: https://linshi-email.com
+        icon: fas fa-envelope
+        description: 临时邮箱服务
+      - name: SMS-Activate
+        url: https://sms-activate.org
+        icon: fas fa-sms
+        description: 虚拟号码短信
+
+  - name: 影音娱乐
+    icon: fas fa-film
+    sites:
+      - name: 电影天堂
+        url: http://www.ygdy8.com
+        icon: fas fa-film
+        description: 影视资源
+      - name: Share.acgnx.net
+        url: https://share.acgnx.net
+        icon: fas fa-dragon
+        description: 动漫资源
+      - name: MemoryStory
+        url: https://memorystory.site
+        icon: fas fa-book
+        description: 资源分享
+      - name: SteamZG
+        url: https://steamzg.com
+        icon: fab fa-steam
+        description: 游戏资源
+      - name: 小叽资源
+        url: https://www.xiaojiziyuan.com
+        icon: fas fa-archive
+        description: 资源分享
+
+  - name: 论坛社区
+    icon: fas fa-users
+    sites:
+      - name: 1LOU
+        url: https://www.1lou.net
+        icon: fas fa-link
+        description: BT 论坛
+      - name: cnxiaobai
+        url: https://cnxiaobai.com
+        icon: fas fa-blog
+        description: 技术博客
+      - name: OpenOS
+        url: https://openos.org
+        icon: fas fa-server
+        description: 黑群辉论坛
+      - name: gebi1
+        url: https://gebi1.com
+        icon: fas fa-database
+        description: NAS 论坛
+      - name: mspace
+        url: https://mspace.cc
+        icon: fas fa-pen
+        description: 牧之笔记
+      - name: Chiphell
+        url: https://www.chiphell.com
+        icon: fas fa-microchip
+        description: 硬件发烧友论坛
+      - name: 恩山无线论坛
+        url: https://www.right.com.cn/forum
+        icon: fas fa-signal
+        description: 路由网络论坛
+
+  - name: 个人工具
+    icon: fas fa-toolbox
+    sites:
+      - name: Xuebi Pan
+        url: https://pan.myxuebi.top
+        icon: fas fa-cloud
+        description: 在线网盘
+      - name: EFCLOUD
+        url: https://efcloud.com
+        icon: fas fa-shield-alt
+        description: VPN 服务商
+      - name: HY’s Blog
+        url: https://hyblog.com
+        icon: fas fa-blog
+        description: Emby 教程

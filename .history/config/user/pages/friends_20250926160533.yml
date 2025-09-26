@@ -1,0 +1,77 @@
+title: 友情链接
+subtitle: 优秀的博主和朋友们
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: friends
+
+categories:
+  - name: 友链~~
+    icon: fas fa-user-friends
+    sites:
+      - name: 唐志远
+        icon: https://bu.dusays.com/2022/05/02/626f92e193879.jpg  # 使用 avatar 链接作为 icon
+        description: 立志成为一名架构师
+        url: https://fe32.top/
+      - name: 朽丘秋雨
+        icon: https://blog.koxiuqiu.cc/img/avatar/avatar.png
+        description: 一定会和喜欢的人在夏日夜晚牵手慢步
+        url: https://blog.koxiuqiu.cc
+      - name: 夜法之书的Blog
+        icon: https://blog.17lai.site/favicon.webp
+        description: 嵌入式，Linux Kernel&Driver, PT, Docker, Nas等等
+        url: https://blog.17lai.site
+      - name: Leonus
+        icon: https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5
+        description: 进一寸有进一寸的欢喜
+        url: https://blog.leonus.cn/
+      - name: Akilarの糖果屋
+        icon: https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg
+        description: 欢迎光临糖果屋
+        url: https://akilar.top/
+      - name: 张洪Heo
+        icon: https://img.zhheo.com/i/67d8fa75943e4.webp
+        description: 分享设计与科技生活
+        url: https://blog.zhheo.com/
+      - name: Echo 的小窝
+        icon: https://www.liveout.cn/wp-content/uploads/2024/09/1.jpg
+        description: 生漂泊于互联网中的小窝
+        url: https://www.liveout.cn/
+      - name: 安知鱼
+        icon: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+        description: 生活明朗，万物可爱
+        url: https://blog.anheyu.com/
+      - name: 周润发
+        icon: https://blog.aizrf.com/img/logo.webp
+        description: 收录开源，好用的互联网项目
+        url: https://blog.aizrf.com/
+  - name: 技术社区
+    icon: fas fa-laptop-code
+    sites:
+      - name: GitHub
+        icon: fab fa-github
+        description: 开源代码托管平台
+        url: https://github.com
+      - name: Stack Overflow
+        icon: fab fa-stack-overflow
+        description: 程序员问答社区
+        url: https://stackoverflow.com 
+      - name: V2EX
+        icon: fas fa-users
+        description: 创意工作者、程序员和设计师的社区
+        url: https://www.v2ex.com/
+      - name: NodeSeek
+        icon: fas fa-leaf
+        description: 自由、开放、包容的技术交流社区
+        url: https://www.nodeseek.com/
+      - name: Linux.do
+        icon: fab fa-linux
+        description: Linux/IT 技术分享与交流社区
+        url: https://linux.do/
+      - name: 稀土掘金
+        icon: fas fa-gem
+        description: 高质量技术文章与开发者交流平台
+        url: https://juejin.cn/
+      - name: 思否 SegmentFault
+        icon: fas fa-comment-dots
+        description: 专业的中文技术问答社区和开发者交流平台
+        url: https://segmentfault.com/

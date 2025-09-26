@@ -1,0 +1,33 @@
+title: 我的项目
+subtitle: 这里展示了我的一些个人项目和开源贡献
+
+template: projects
+
+categories:
+  - name: 个人项目
+    icon: fas fa-code
+    sites:
+      - name: 个人导航站
+        icon: fas fa-compass
+        description: 一个基于 menav 的简洁美观个人导航页面
+        url: https://halfair.top
+      - name: Todo List
+        icon: fas fa-tasks
+        description: 基于 Vue3 + Pinia 的待办事项管理器
+        url: https://todo.halfair.top
+      - name: 个人博客
+        icon: fas fa-blog
+        description: 使用 Hexo 搭建的技术博客
+        url: https://blog.halfair.top
+      - name: 服务监控面板
+        icon: fas fa-chart-line
+        description: 基于 UptimeRobot 的服务状态监控
+        url: https://stats.uptimerobot.com/LMYgq8u9vs
+      - name: 哪吒探针
+        icon: fas fa-tachometer-alt
+        description: 服务器状态与监控探针
+        url: https://nezha.halfair.top
+      - name: Emby 媒体库
+        icon: fas fa-film
+        description: 自建影音播放平台
+        url: https://nas.halfair.top:8096
