@@ -76,9 +76,9 @@ categories:
         icon: fas fa-blog
         description: 个人博客
       - name: 服务状态监控
-        url: https://stats.uptimerobot.com/LMYgq8u9vs
+        url: https://status.halfair.top
         icon: fas fa-chart-line
-        description: UptimeRobot 服务监控
+        description: 服务状态监控
       - name: 哪吒探针
         url: https://nezha.halfair.top
         icon: fas fa-tachometer-alt
@@ -92,7 +92,7 @@ categories:
         icon: fas fa-hdd
         description: NAS 存储
       - name: Emby
-        url: https://nas.halfair.top:8096
+        url: http://nas.halfair.top:8096
         icon: fas fa-film
         description: 自建影音平台
       - name: BleachWrt - LuCI
@@ -104,7 +104,7 @@ categories:
         icon: fas fa-robot
         description: 聊天机器人
       - name: 青龙面板
-        url: https://nas.halfair.top:15700
+        url: http://nas.halfair.top:15700
         icon: fas fa-tasks
         description: 自动化任务面板
       - name: DDNS

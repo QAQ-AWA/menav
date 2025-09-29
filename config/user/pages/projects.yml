@@ -17,8 +17,8 @@ categories:
         url: https://halfair.top
       - name: 服务监控面板
         icon: fas fa-chart-line
-        description: 基于 UptimeRobot 的服务状态监控
-        url: https://stats.uptimerobot.com/LMYgq8u9vs
+        description: 自建服务状态监控（基于 UptimeRobot API）
+        url: https://status.halfair.top
       - name: 哪吒探针
         icon: fas fa-tachometer-alt
         description: 服务器状态与监控探针
