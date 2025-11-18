@@ -88,11 +88,11 @@ categories:
         icon: fas fa-desktop
         description: 虚拟化管理
       - name: NAS2
-        url: https://nas.halfair.top:5001
+        url: https://nas.halfair.top:88
         icon: fas fa-hdd
         description: NAS 存储
       - name: Emby
-        url: http://nas.halfair.top:8096
+        url: https://emby.halfair.top:88
         icon: fas fa-film
         description: 自建影音平台
       - name: BleachWrt - LuCI
@@ -104,7 +104,7 @@ categories:
         icon: fas fa-robot
         description: 聊天机器人
       - name: 青龙面板
-        url: http://nas.halfair.top:15700
+        url: http://qinglong.halfair.top:88
         icon: fas fa-tasks
         description: 自动化任务面板
       - name: DDNS

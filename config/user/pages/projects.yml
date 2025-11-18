@@ -26,4 +26,4 @@ categories:
       - name: Emby 媒体库
         icon: fas fa-film
         description: 自建影音播放平台
-        url: https://nas.halfair.top:8096
+        url: https://emby.halfair.top:88
